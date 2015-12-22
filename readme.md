@@ -1,6 +1,6 @@
 ## Network Analysis of Hillary Clinton's Emails
 
-[Kaggle](https://www.kaggle.com), as part of a [competition](https://www.kaggle.com/c/hillary-clinton-emails), made available over 7,000 pages of emails sent by Hillary Clinton and her associates. I found the emails fascinating not just because of the content, but because they told a story about the inner workings of Clinton's inner circle. I used network analysis and matplotlib to visually demonstrate how Clinton's inner cirlce operated. You can view the code [here](https://github.com/skasim/hrc_emails/blob/master/hrc_network_analysis_with_graphs.ipynb).
+[Kaggle](https://www.kaggle.com), as part of a [competition](https://www.kaggle.com/c/hillary-clinton-emails), made available over 7,000 pages of emails sent by Hillary Clinton and her associates. I found the emails fascinating not just because of the content, but because they told a story about the inner workings of Clinton's inner circle. I used network analysis and matplotlib to visually demonstrate how Clinton's inner circle operated. You can view the code [here](https://github.com/skasim/hrc_emails/blob/master/hrc_network_analysis_with_graphs.ipynb).
 
 
 ## Hillary's Network
