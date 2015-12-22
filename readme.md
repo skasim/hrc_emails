@@ -13,7 +13,7 @@ It isn't surprising that Hillary is at the center of the network. Of the 7,000+ 
 
 ![alt tag](graphs/top15.png)
 
-Another interesting aspect of the Hillary email story is how does information flow when Hillary Clinton is not a sender or receiver of the emails. In this case, we find that there is no one true central node. Instead, Huma Abedin, Cheryl Mills, and Jake Sullivan are now the main arbiters of information.
+Another interesting aspect of this email story is what does the network look like when Hillary is not involved (i.e., how does information flow when Hillary Clinton is not a sender or receiver of the emails). In this case, we find that there is no one true central node. Instead, Huma Abedin, Cheryl Mills, and Jake Sullivan are now the main arbiters of information.
 
 ![alt tag](graphs/other_network.png)
 
