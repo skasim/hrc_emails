@@ -23,7 +23,7 @@ Run in Jupyter using the below:
 
 ```
 - Import Pandas
-- Import sqllite
+- Import sqlite3
 - Import networkx
 - Import matplotlib.pyplot
 ```
