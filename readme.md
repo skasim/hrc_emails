@@ -5,7 +5,7 @@
 
 ## Hillary's Network
 
-The graph below shows Hillary's network based on email senders and receivers who sent each other more than 10 emails. Hillary, of course, is at the center of the network. However, there are also interesting patterns where secondary nodes (e.g., Huma Abedin and Lona Volmaro) are interacting with each other).
+The graph below shows Hillary's network based on email senders and receivers who sent each other more than 10 emails. Hillary, of course, is at the center of the network. However, there are also interesting patterns where secondary nodes (e.g., Huma Abedin and Lona Volmaro) are interacting with each other.
 
 ![alt tag](graphs/hrc_network.png)
 
